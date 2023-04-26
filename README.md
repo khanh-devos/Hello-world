@@ -176,6 +176,18 @@ If you like this project, can invite me a cup of tea
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+
+- **[what are linters for?]**
+
+  - [A linter is a tool that analyzes your source code to flag programming errors, bugs, stylistic errors, and suspicious constructs(source: [Wikipeia](https://www.linkedin.com/in/khanh-than-trong-3b4344246/)).]
+
+- **[Linters can be used for all programming languages ?]**
+
+  - [No, not all languages can use linters, [details](https://github.com/microverseinc/linters-config)]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
